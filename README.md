@@ -43,6 +43,10 @@ In this role, I work with historical customer and infrastructure-related data (*
 - Strengthen my fundamentals in **Python for Data Science** and **Statistics**
 - Build impactful, real-world **AI/LLM-based models** and **industry-relevant data solutions**
 
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/634a4823-820b-4ead-a6b0-b5815b44e2ea" alt="RaphinhaBarcelonaGIF" width="400">
+</p>
+
 ---
 
 📫 Feel free to connect with me or check out my projects!
