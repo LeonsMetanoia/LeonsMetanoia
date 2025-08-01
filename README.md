@@ -3,6 +3,11 @@
 🎓 I’m currently an undergraduate Computer Science student at **BINUS University**.  
 💼 I’m also working as a **Data Scientist Intern** at **PLN Icon Plus**, an ICT (Information and Communication Technology) company under PLN Group.
 
+<p align="center">
+  <img src="https://github.com/LeonsMetanoia/LeonsMetanoia/blob/main/photo-intern-v2.jpeg?raw=true" alt="Intern Photo" width="400">
+</p>
+
+
 In this role, I work with historical customer and infrastructure-related data, especially focusing on PLN and Icon Plus services. Most of my projects involve analyzing data from existing customers and company assets to support better service delivery and generate operational insights.
 
 ---
@@ -27,6 +32,10 @@ In this role, I work with historical customer and infrastructure-related data, e
 - **Geospatial Tools**: ArcGIS Pro
 - **IDEs/Editors**: Visual Studio Code, Jupyter Notebook, Google Colab
 - **Others**: Excel, Google Sheets
+- 
+### 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/leonsmetanoia)
+- [GitHub](https://github.com/LeonsMetanoia)
 
 ---
 
