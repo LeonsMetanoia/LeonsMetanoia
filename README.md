@@ -8,7 +8,7 @@
 </p>
 
 
-In this role, I work with historical customer and infrastructure-related data, especially focusing on PLN and Icon Plus services. Most of my projects involve analyzing data from existing customers and company assets to support better service delivery and generate operational insights.
+In this role, I work with historical customer and infrastructure-related data (*right now mostly combined with spatial data), especially focusing on PLN and Icon Plus services. Most of my projects involve analyzing data from existing customers and company assets to support better service delivery and generate operational insights.
 
 ---
 
@@ -34,7 +34,7 @@ In this role, I work with historical customer and infrastructure-related data, e
 - **Others**: Excel, Google Sheets
 - 
 ### 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/leonsmetanoia)
+- [LinkedIn](https://www.linkedin.com/in/immanuel-leon-salomo-636763251/)
 - [GitHub](https://github.com/LeonsMetanoia)
 
 ---
