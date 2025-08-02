@@ -32,7 +32,7 @@ In this role, I work with historical customer and infrastructure-related data (*
 - **Geospatial Tools**: ArcGIS Pro
 - **IDEs/Editors**: Visual Studio Code, Jupyter Notebook, Google Colab
 - **Others**: Excel, Google Sheets
-- 
+  
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/immanuel-leon-salomo-636763251/)
 - [GitHub](https://github.com/LeonsMetanoia)
